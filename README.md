@@ -2,15 +2,15 @@
 
 # Hi, I'm Ahmet Faruk 👋
 
-UI Developer focused on building clean, accessible, and scalable interfaces.
+I focused on building clean, accessible, and scalable interfaces.
 
-Currently working as a Part-Time UI Developer at [Jotform](https://www.jotform.com).
+UI Developer at [Jotform](https://www.jotform.com), contributing to production-level UI used by millions of users.
 
 <br>
 
 ## About Me
 
-I specialize in developing user interfaces that prioritize clarity, performance, and accessibility.
+I focus on building user interfaces that are not only visually clean, but also accessible, performant, and scalable.
 
 - **Accessibility & Inclusive Design:** Currently building [Accextension](https://github.com/ahmtoz/Accextension)
 - **Design Systems:** Passionate about building scalable and component-driven architectures
